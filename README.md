@@ -9,12 +9,11 @@ Hi! I’m a developer-in-training, exploring programming and working on building
 * 🌍  I'm based in Dnipro
 * ✉️  You can contact me at [yehorzhurenko@gmail.com](mailto:yehorzhurenko@gmail.com)
 
-### Skills
-
 ### Education
 
 <b>National University of Radio Electronics (NURE)</b>
 
+### Skills
 
 
 <p align="left">
